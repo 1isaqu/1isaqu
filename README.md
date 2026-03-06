@@ -31,7 +31,7 @@ Here are some of the technologies I work with:
 
 ## 📌 My Top Open Source Projects
 
-*   **[🎮 Killswitch Engage]((https://github.com/1isaqu/Killswitch-Engage-An-Intelligent-Game-Library-Recommendation-System))**
+*   **[🎮 Killswitch Engage](https://github.com/1isaqu/Killswitch-Engage-An-Intelligent-Game-Library-Recommendation-System)**
 *   **[gymshark-eda-cleaning](https://github.com/1isaqu/gymshark-eda-cleaning)**
 *   **[grindlog](https://github.com/1isaqu/grindlog)**
 
