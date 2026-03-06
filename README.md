@@ -32,22 +32,28 @@ Here are some of the technologies I work with:
 ## 📌 My Top Open Source Projects
 
 *   **[🎮 Killswitch Engage]([link-to-your-repo](https://github.com/1isaqu/Killswitch-Engage-An-Intelligent-Game-Library-Recommendation-System))** - A complete game recommendation system with data pipelines, ML models (RF, HDBSCAN, LightFM, cGAN), and a high-performance API.
-*   *[gymshark-eda-cleaning](https://github.com/1isaqu/gymshark-eda-cleaning)`
-*   *[grindlog](https://github.com/1isaqu/grindlog)*
+*   **[gymshark-eda-cleaning](https://github.com/1isaqu/gymshark-eda-cleaning)**
+*   **[grindlog](https://github.com/1isaqu/grindlog)**
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Stats Card (Mostra commits, PRs, etc) -->
   <img src="https://github-readme-stats.vercel.app/api?username=1isaqu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1isaqu&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs" height="180em"/>
 </div>
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=1isaqu&theme=tokyonight)](https://git.io/streak-stats)
-
+<div align="center">
+  <!-- Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=1isaqu&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</div>
 ---
 
 ## 📫 How to reach me
