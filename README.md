@@ -1,9 +1,6 @@
 <div align="center">
 
 # 👋 Hey, I'm Isaque
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&center=true&vCenter=true&width=480&lines=Solo+dev%2C+full+production+stack;Still+a+student.+Already+on-call.;Turning+chaos+into+dashboards" alt="Typing SVG" />
-
 </div>
 
 Data Science & AI student at PUC Goiás (4th semester) and the **only technical hire** at a debt-collection company in Goiânia, Brazil. That means I own the whole stack there: models, pipelines, and the servers they run on. A lot of what I actually know came from keeping production systems alive, not from a classroom.
