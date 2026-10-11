@@ -64,7 +64,7 @@ Also: [collection-queue-ranker](https://github.com/1isaqu/collection-queue-ranke
 
 ### 🎮 On my own time
 
-#### [Killswitch Engage](https://github.com/1isaqu/Killswitch-Engage)
+#### 📕 [Killswitch Engage](https://github.com/1isaqu/Killswitch-Engage)
 A recommendation engine for game libraries too big to make sense of by hand, built out of a very real backlog problem. A 4-layer ML pipeline (Random Forest, HDBSCAN, LightFM, cGAN) over 122k titles and 10k synthetic users, with a write-up on Medium.
 
 #### 💪 [grindlog](https://github.com/1isaqu/grindlog)
