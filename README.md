@@ -44,14 +44,34 @@ Data Science & AI student at PUC Goiás (4th semester) and the **only technical 
 
 ## 🛠️ A Few Things I've Built
 
-### 🎮 [Killswitch Engage](https://github.com/1isaqu/Killswitch-Engage-An-Intelligent-Game-Library-Recommendation-System)
-A recommendation engine for game libraries too big to make sense of by hand, built out of a very real backlog problem.
+### 🏢 From the job, rebuilt on synthetic data
 
-### 💪 [grindlog](https://github.com/1isaqu/grindlog)
+Public versions of problems I solve at work in debt collections. Every table, portfolio and number in these repos is invented, and none of them touch real data.
+
+### 🤖 [llm-agent-evals](https://github.com/1isaqu/llm-agent-evals)
+A tool-calling analytics agent plus the harness that checks it: golden scenarios, eight assertion layers, a reliability ledger and run guards (step and time ceilings, call-spiral detection, circuit breaker). A deterministic mock model keeps CI free of API keys, and the runtime uses only the standard library.
+
+### ⏱️ [call-pace-forecast](https://github.com/1isaqu/call-pace-forecast)
+"Is the operation on pace?", answered hour by hour. A lookup baseline, KNN and LightGBM quantile bands, all scored with the same walk-forward protocol. A challenger only replaces the baseline if it clearly beats it, and when it doesn't, the simple model stays.
+
+### 🔒 [query-verification-gates](https://github.com/1isaqu/query-verification-gates)
+Four gates a number from analytical SQL has to pass before anyone reports it: the columns exist, two independent routes reconcile, every filter is declared, every code-to-label mapping is re-derived. It exits non-zero on failure, so it fits in a pipeline.
+
+### 🔌 [collections-analytics-api](https://github.com/1isaqu/collections-analytics-api)
+A read-only FastAPI service over SQL Server: 56 routes, one response envelope, cache, connection pool and auth. The OpenAPI document is generated from the app, and tests fail when the contract drifts.
+
+Also: [collection-queue-ranker](https://github.com/1isaqu/collection-queue-ranker) (LightGBM work-queue ranker with MLflow and a leakage-safe time split) and [delinquency-eda-pipeline](https://github.com/1isaqu/delinquency-eda-pipeline) (staged analysis of overdue receivables: drift, censoring, cleaning, days-to-pay model).
+
+### 🎮 On my own time
+
+#### [Killswitch Engage](https://github.com/1isaqu/Killswitch-Engage)
+A recommendation engine for game libraries too big to make sense of by hand, built out of a very real backlog problem. A 4-layer ML pipeline (Random Forest, HDBSCAN, LightFM, cGAN) over 122k titles and 10k synthetic users, with a write-up on Medium.
+
+#### 💪 [grindlog](https://github.com/1isaqu/grindlog)
 A mobile-first workout tracker with a gothic/cybersigilism interface (Devil May Cry and Resident Evil as UI references), because a gym log doesn't have to look like a spreadsheet.
 
-### 🧹 [gymshark-eda-cleaning](https://github.com/1isaqu/gymshark-eda-cleaning)
-End-to-end exploratory analysis and cleaning on a real retail dataset: the unglamorous groundwork most tutorials skip straight past.
+#### 🧹 [gymshark-eda-cleaning](https://github.com/1isaqu/gymshark-eda-cleaning)
+End-to-end exploratory analysis and cleaning on a 44,830-row retail catalog, with a [scroll-driven data story](https://1isaqu.github.io/gymshark-eda-cleaning/): the unglamorous groundwork most tutorials skip straight past.
 
 ---
 
