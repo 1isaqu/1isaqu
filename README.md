@@ -19,7 +19,6 @@ Looking for internship and junior roles in data, ML and applied AI.
 ## Now
 
 - Building a real-time ops dashboard for the collection floor
-- Competing in Jump Start 2026 (SAE Brasil × Toyota)
 
 ## Work projects, rebuilt on synthetic data
 
